@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896475140598",
+    "project_id": "kotlin-3ad97",
+    "storage_bucket": "kotlin-3ad97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896475140598:android:d978a26fbc72ed06fbb7d7",
+        "android_client_info": {
+          "package_name": "com.example.composerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-yS3qmfpmkS7MSdSkHqHDGXPJ0hIAvsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
